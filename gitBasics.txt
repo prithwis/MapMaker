@@ -1,0 +1,7 @@
+git init
+git remote add origin https://github.com/username/myproject.git
+git pull http://github.com/username/reponame
+git add Readme.txt
+git commit -m “Add Readme.txt”
+git push
+
